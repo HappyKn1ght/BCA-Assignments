@@ -9,4 +9,4 @@ My programming assignments and practice codes from BCA program.
 - C (currently)
 
 ## 👨‍💻 About
-BCA student | Learning programming fundamentals
+BCA student 

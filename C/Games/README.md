@@ -1,15 +1,30 @@
-# 🎮 Guess It Right!
+# 🎮 Guess It Right
 
-My first ever game built in C!
+A number guessing game written in C.
+Guess a random number between 1 and 100!
 
-A number guessing game where the computer picks 
-a random number between 1-100 and you have to guess it.
+## 🚀 How to Compile & Run
 
-## How to Play
-- Guess the number between 1 and 100
-- Get hints if your guess is too high or low
-- Type 'q' to quit anytime
-
-## How to Run
-gcc guess_it_right.c -o game
+**Using GCC:**
+```bash
+gcc game.c -o game
 ./game
+```
+
+## 🎯 How to Play
+
+1. Game picks a random number between 1 and 100
+2. You guess the number
+3. Game tells you if its higher or lower
+4. Type `q` to quit anytime
+
+## 📁 Features
+
+- Random number generation
+- Input validation
+- Quit anytime with `q`
+- Tracks number of guesses
+
+## 👨‍💻 Author
+
+Yashwant Kumar | [GitHub](https://github.com/HappyKn1ght)

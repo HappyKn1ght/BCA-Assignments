@@ -1,6 +1,3 @@
-Testing my first branch!
-Testing second branch!
-Third branch test!
 # 🎮 Guess It Right
 
 A number guessing game written in C.

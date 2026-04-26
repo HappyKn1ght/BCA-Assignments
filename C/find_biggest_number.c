@@ -6,34 +6,32 @@
 int main()
 {
     int a, b, c, d;
+
     printf("Welcome to Biggest Number Finder\n");
-    printf("Enter a:");
+    printf("Enter a: ");
     scanf("%d", &a);
-    printf("Enter b:");
+    printf("Enter b: ");
     scanf("%d", &b);
-    printf("Enter c:");
+    printf("Enter c: ");
     scanf("%d", &c);
-    printf("Enter d:");
+    printf("Enter d: ");
     scanf("%d", &d);
-    if (a > b && a > c && a > d)
+
+    if (a >= b && a >= c && a >= d)
     {
-        printf("a has biggeet number so\n");
-        printf("a has won.\n");
+        printf("a has the biggest number and has won!\n");
     }
-    if (b > c && b > d && b > a)
+    else if (b >= a && b >= c && b >= d)
     {
-        printf("b has biggeet number so\n");
-        printf("b has won.\n");
+        printf("b has the biggest number and has won!\n");
     }
-    if (c > d && c > b && c > a)
+    else if (c >= a && c >= b && c >= d)
     {
-        printf("c has biggeet number so\n");
-        printf("c has won.\n");
+        printf("c has the biggest number and has won!\n");
     }
-    if (d > a && d > b && d > c)
+    else
     {
-        printf("d has biggest number so\n");
-        printf("d has won.\n");
+        printf("d has the biggest number and has won!\n");
     }
 
     return 0;

@@ -7,19 +7,41 @@ A collection of games written in C!
 ### 1. Guess It Right
 Guess a random number between 1 and 100!
 
+## 📥 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/HappyKn1ght/BCA-Assignments/tree/main/C/Games.git
+```
+
+2. Navigate to project folder:
+```bash
+cd GuessItRight
+```
+
 **Compile & Run:**
 ```bash
-gcc GuessItRight.c -o game
-./game
+gcc GuessItRight.c -o GuessItRight && ./GuessItRight
 ```
 
 ### 2. Rock Paper Scissors
 Play 5 rounds of Rock Paper Scissors against a bot!
 
+## 📥 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/HappyKn1ght/BCA-Assignments/tree/main/C/Games.git
+```
+
+2. Navigate to project folder:
+```bash
+cd RockPaperScissorGame
+```
+
 **Compile & Run:**
 ```bash
-gcc RockPaperScissorGame.c -o rps
-./rps
+gcc RockPaperScissorGame.c -o RockPaperScissorGame && ./RockPaperScissorGame
 ```
 
 ## 🎯 How to Play

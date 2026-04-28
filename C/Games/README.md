@@ -31,12 +31,12 @@ Play 5 rounds of Rock Paper Scissors against a bot!
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/HappyKn1ght/BCA-Assignments/tree/main/C/Games.git
+git clone https://github.com/HappyKn1ght/BCA-Assignments.git
 ```
 
 2. Navigate to project folder:
 ```bash
-cd RockPaperScissorGame
+cd BCA-Assignments/C/Games
 ```
 
 **Compile & Run:**

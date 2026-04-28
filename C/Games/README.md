@@ -39,15 +39,13 @@ cd BCA-Assignments/C/Games
 ### ▶️ Guess It Right
 
 ```bash
-gcc GuessItRight.c -o GuessItRight
-./GuessItRight
+gcc GuessItRight.c -o GuessItRight && ./GuessItRight
 ```
 
 ### ▶️ Rock Paper Scissors
 
 ```bash
-gcc RockPaperScissorGame.c -o RockPaperScissorGame
-./RockPaperScissorGame
+gcc RockPaperScissorGame.c -o RockPaperScissorGame && ./RockPaperScissorGame
 ```
 
 ---

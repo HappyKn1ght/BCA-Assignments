@@ -1,61 +1,81 @@
 # 🎮 C Games
 
-A collection of games written in C!
+A collection of simple games written in C as part of my BCA practice.
 
-## 🕹️ Games
+---
 
-### 1. Guess It Right
+## 🕹️ Games Included
+
+### 🎲 Guess It Right
+
 Guess a random number between 1 and 100!
 
-## 📥 Installation
+### ✊✋✌️ Rock Paper Scissors
 
-1. Clone the repository:
-```bash
-git clone https://github.com/HappyKn1ght/BCA-Assignments/tree/main/C/Games.git
-```
+Play 5 rounds of Rock Paper Scissors against a bot.
 
-2. Navigate to project folder:
-```bash
-cd GuessItRight
-```
-
-**Compile & Run:**
-```bash
-gcc GuessItRight.c -o GuessItRight && ./GuessItRight
-```
-
-### 2. Rock Paper Scissors
-Play 5 rounds of Rock Paper Scissors against a bot!
+---
 
 ## 📥 Installation
 
-1. Clone the repository:
+Clone the repository:
+
 ```bash
 git clone https://github.com/HappyKn1ght/BCA-Assignments.git
 ```
 
-2. Navigate to project folder:
+Navigate to the games folder:
+
 ```bash
 cd BCA-Assignments/C/Games
 ```
 
-**Compile & Run:**
+> Note: Git clones the entire repository. Individual folders cannot be cloned separately.
+
+---
+
+## 🚀 Compile & Run
+
+### ▶️ Guess It Right
+
 ```bash
-gcc RockPaperScissorGame.c -o RockPaperScissorGame && ./RockPaperScissorGame
+gcc GuessItRight.c -o GuessItRight
+./GuessItRight
 ```
+
+### ▶️ Rock Paper Scissors
+
+```bash
+gcc RockPaperScissorGame.c -o RockPaperScissorGame
+./RockPaperScissorGame
+```
+
+---
 
 ## 🎯 How to Play
 
-**Guess It Right:**
-1. Game picks a random number between 1 and 100
-2. Guess the number
-3. Game tells you higher or lower
-4. Type `q` to quit anytime
+### 🎲 Guess It Right
 
-**Rock Paper Scissors:**
-1. Enter 0 for Rock, 1 for Paper, 2 for Scissors
+1. The game selects a random number between 1 and 100
+2. Enter your guess
+3. The game will guide you (higher/lower)
+4. Enter `q` to quit anytime
+
+---
+
+### ✊✋✌️ Rock Paper Scissors
+
+1. Enter:
+
+   * `0` → Rock
+   * `1` → Paper
+   * `2` → Scissors
 2. Play 5 rounds against the bot
-3. Enter 9 to quit anytime
+3. Enter `9` to quit anytime
+
+---
 
 ## 👨‍💻 Author
-Yashwant Kumar | [GitHub](https://github.com/HappyKn1ght)
+
+**Yashwant Kumar (Happy)**
+🔗 https://github.com/HappyKn1ght

@@ -7,17 +7,22 @@ Programming assignments and practice codes from my BCA program.
 * C
 * C++
 
-## 📂 Structure
+---
+
+## 📂 Project Structure
 
 BCA-Assignments/
+│
 ├── C/
 │   ├── Games/
 │   ├── Conditionals/
 │   ├── Loops/
 │   └── Functions_and_Recursion/
+│
 └── C++/
-└── OOP/
+    └── OOP/
 
+---
 ## 📚 Topics
 
 * C: Conditionals, Loops, Functions, Recursion, Games

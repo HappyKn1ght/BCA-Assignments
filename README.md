@@ -31,6 +31,7 @@ BCA-Assignments/
 
 * C: Conditionals, Loops, Functions, Recursion, Games
 * C++: OOP (Classes & Objects)
+* Java:
 
 ## ▶ Run
 
@@ -39,6 +40,9 @@ gcc file.c -o file && ./file
 
 C++:
 g++ file.cpp -o file && ./file
+
+Java:
+javac file.java && ./file
 
 ## 🎯 Purpose
 

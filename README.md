@@ -7,6 +7,7 @@ Programming assignments and practice codes from my BCA program.
 * C
 * C++
 * Java
+* Python
 
 ## 📂 Project Structure
 

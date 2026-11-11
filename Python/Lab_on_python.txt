@@ -1,3 +1,4 @@
+B.R.A. Bihar University, Muzaffarpur
 BCA – 506: Lab on Python & Web Technology: 
 Total Lab Class = 60 
 

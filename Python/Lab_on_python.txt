@@ -7,22 +7,38 @@ Programming in Python Lab Practical:
 Program 1.  Using for loop, print a table of Celsius/Fahrenheit equivalences. Let c be the 
 Celsius temperatures ranging from 0 to 100, for each value of c, print the corresponding 
 Fahrenheit temperature. 
+
 Program  2. Using while loop, produce a table of sins, cosines and tangents. Make a variable x in 
 range from 0 to 10 in steps of 0.2. For each value of x, print the value of sin(x), cos(x) and tan(x).  
+
 Program 3. Write a program that reads an integer value and prints ―leap year‖ or ―not a leap year.  
+
 Program  4. Write a program that takes a positive integer n and then produces n lines of output 
 shown as follows. For example enter a size: 5 * ** *** **** ***** 
+
 Program  5. Write a function that takes an integer ‗n‘ as input and calculates the value of 1 + 
 1/1! + 1/2! + 1/3! + … + 1/n  
+
 Program 6. Write a function that takes an integer input and calculates the factorial of that number.  
+
 Program 7. Write a function that takes a string input and checks if it‘s a palindrome or not. 
+
 Program 8. Write a list function to convert a string into a list, as in list (‗abc‘) gives [a, b, c]. 
+
 Program  9. Write a program to generate Fibonacci series.  
+
 Program  10. Write a program to check whether the input number is even or odd.  
+
 Program 11. Write a program to compare three numbers and print the largest one.  
+
 Program  12. Write a program to print factors of a given number.  
+
 Program  13. Write a method to calculate GCD of two numbers.  
+
 Program 14. Write a program to create Stack Class and implement all its methods. (Use Lists).  
+
 Program 15. Write a program to create Queue Class and implement all its methods. (Use Lists)  
+
 Program 16. Write a program to implement linear and binary search on lists.  
+
 Program  17. Write a program to sort a list using insertion sort and bubble sort and selection sort. 

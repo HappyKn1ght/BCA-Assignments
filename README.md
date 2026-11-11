@@ -8,33 +8,8 @@ Programming assignments and practice codes from my BCA program.
 * C++
 * Java
 * Python
+* Web Technology
 
-## 📂 Project Structure
-
-```text
-BCA-Assignments/
-│
-├── C/
-│   ├── Games/
-│   ├── Conditionals/
-│   ├── Loops/
-│   └── Functions_and_Recursion/
-|
-├── C++/
-|   └── OOP/
-|
-├── Java/ 
-│   ├── OOP/
-│   ├── Programs/
-│ 
-
-```
-
-## 📚 Topics
-
-* C: Conditionals, Loops, Functions, Recursion, Games
-* C++: OOP (Classes & Objects)
-* Java: Programs and OOP concepts
 
 ## ▶ Run
 
@@ -51,6 +26,11 @@ g++ file.cpp -o file && ./file
 **Java:**
 ```bash
 javac file.java && java file
+```
+
+**Python:**
+```bash
+python file.py
 ```
 
 ## 🎯 Purpose

@@ -1,0 +1,12 @@
+Web Technology: 
+HTML code for sign up, sign in, forgot password pages. 
+CSS code to control the appearance of form elements of the HTML page. 
+JavaScript program to: 
+check whether a number is even or odd 
+check whether a year is leap or not 
+find factorial of a number 
+display table of a number 
+validate input elements of a signup page 
+similar programs based on array, function. 
+even based coding. 
+A Mini Project
